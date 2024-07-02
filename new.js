@@ -1,2 +1,2 @@
 alert("hello")
-document.writeln("привет")
+document.write("hello")
